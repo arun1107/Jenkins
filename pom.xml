@@ -5,7 +5,7 @@
 	<artifactId>HelloWorld</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HelloWorld Maven Webapp</name>
+	<name>HelloWorld maven Webapp</name>
 	<url>http://maven.apache.org</url>
   <build>
     <finalName>HelloWorld</finalName>
